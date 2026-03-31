@@ -1,3 +1,8 @@
+---
+applied_to.argocd_applications: "*"
+applied_to.clusters: "*"
+---
+
 ## General
 
 - First, do the initial triage and collect the basic information to understand the incident.
