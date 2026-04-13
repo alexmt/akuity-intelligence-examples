@@ -3,7 +3,7 @@ applied_to.argocd_applications: "*"
 applied_to.clusters: "*"
 ---
 
-## General
+## General-updated
 
 - First, do the initial triage and collect the basic information to understand the incident.
 - Next, send a Slack notification with the link to the conversation to channel "PLEASE REPLACE" with basic detail.
